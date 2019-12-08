@@ -1,23 +1,29 @@
+# Nine Pieces Elimination
 # Support Infomation
-
-
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
 Support email ：WarDrumLegendTik@yeah.net
 
 
-
 ## About
 
-**War Drum Legend Tik** 
+**Nine Pieces Elimination** 
 
-War Drum Legend Tik Start here and try this simple game.
+Nine Pieces Elimination Start here and try this simple game.
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
 Each level is a new challenge, with shorter time, more characters, more difficulty and more fun!
 Come challenge yourself and see how many levels you can play.
+
+Game Features:
+Classic gameplay, endless fun, newcomers can also get started easily and enjoy happy game time!
+Massive levels, can't stop, each level is a new challenge!
+Diverse characters and beautiful scenes give you the easiest gaming experience!
+Call your friends to challenge and see who can get the highest score!
+Casual and fun, just need to use your fingers to tap, you can eliminate all your worries.
+
 
 How about it? Does it sound exciting and interesting? If you are interested, download it now and challenge yourself!
 
